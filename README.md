@@ -1,7 +1,7 @@
 # Portfolio
 
 ## Projects
-### Employee Portal 1.0 (Procedural)
+### Employee Portal 1.0 (Procedural) 
 -Description
 - [Github Repository](https://github.com/SLSeifert/sidework_program)
 
