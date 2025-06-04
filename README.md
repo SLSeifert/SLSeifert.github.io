@@ -6,7 +6,7 @@
 -
 
 ### Employee Portal 1.0 (Procedural) 
-- Description
+- Description 
 - [Github Repository](https://github.com/SLSeifert/sidework_program)
 
 ### Workshop Projects (NUCAMP Backend Bootcamp)
