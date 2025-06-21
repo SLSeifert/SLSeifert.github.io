@@ -1,12 +1,12 @@
 # Portfolio
 
 ## Projects
-### Employee Portal 2.0 (OOP)
--
--
+### Envelopes Budgeting App (OOP)
+- A command‑line application that allows users to create and manage objects, with data stored persistently in a .txt file. Developed to practice working with object‑oriented programming and file I/O for data persistence.
+- [Github Repository](https://github.com/SLSeifert/envelopes_app)
 
 ### Employee Portal 1.0 (Procedural) 
-- Description 
+- Developed a command‑line application that assigns and rotates duties among employees. At this point in my learning, I had limited knowledge of persistent storage, so I implemented a creative data structure and a continuous prompt loop to manage state — preserving duty assignments across rotations until the program was intentionally stopped.
 - [Github Repository](https://github.com/SLSeifert/sidework_program)
 
 ### Workshop Projects (NUCAMP Backend Bootcamp)
